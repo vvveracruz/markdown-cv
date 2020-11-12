@@ -12,7 +12,7 @@ An easy way to create a simple CV in markdown.
 
 ## Example
 
-![Ada Lovelace's CV](/assets/ada.jpg)
+![Ada Lovelace's CV](assets/ada.jpg)
 
 ## Changing the formatting
 This CV relies (mostly) on standard bootstrap stylesheets in `\assets\css`. You can override the bootstrap settings by adding your own settings to `\assets\css\custom.scss`. I wouldn't recommend editing any of the bootrstap files directly.
