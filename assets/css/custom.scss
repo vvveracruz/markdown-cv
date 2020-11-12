@@ -1,0 +1,12 @@
+//  Print settings to make sure the pdf export looks nice
+@media print {
+
+  @page { margin: 2cm; }
+
+}
+
+//  Displays the CV centered in the browser
+body {
+  max-width: 200mm;
+  margin: auto;
+}
